@@ -1,0 +1,17 @@
+name = "raytracing_fortran_gtk"
+version = "0.1.0"
+license = "license"
+author = "Jules MINARD"
+maintainer = "jules.minard@yahoo.com"
+copyright = "Copyright 2022, jules MINARD"
+
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+
+[install]
+library = false
+
+[dependencies]
+gtk-fortran = { git = "https://github.com/vmagnin/gtk-fortran.git", branch = "gtk4" }
