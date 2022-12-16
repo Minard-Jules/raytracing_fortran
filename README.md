@@ -3,6 +3,7 @@
 <br/>
 
 This Project contains source code for a ray-tracing simulation on a sphere in a scene.
+<br/>
 I realized this project under the Fortran 90 programming language and with the GTK libraries (gtk fortran)
 
 <br/>
